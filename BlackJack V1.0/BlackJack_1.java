@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class BlackJack {
+public class BlackJack_1 {
     // #region Iniciando CORES
     public static final String RESETAR_COR = "\u001B[0m";
     public static final String COR_VERMELHA = "\u001B[31m";

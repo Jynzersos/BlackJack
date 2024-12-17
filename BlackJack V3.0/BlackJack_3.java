@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Collections;
 import java.util.Random;
 
-public class Sys_BlackJack {
+public class BlackJack_3 {
     static int[] deck = new int[13];
     final static Random ROLL = new Random();
 

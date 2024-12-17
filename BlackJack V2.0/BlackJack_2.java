@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class BlackJackComPoo {
+public class BlackJack_2 {
     // #region variáveis globais
     public static int quantidadeJogadores = 0;
     public static int jogadoresDesativados = 0;
